@@ -1,0 +1,16 @@
+{
+  "name": "Negocia Mais",
+  "short_name": "Negocia Mais",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1B2A4E",
+  "theme_color": "#1B2A4E",
+  "icons": [
+    {
+      "src": "/imgs/logo-negocia.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
