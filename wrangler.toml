@@ -6,11 +6,10 @@ workers_dev = false
 preview_urls = false
 
 [vars]
-TURNSTILE_SITE_KEY = "0x4AAAAAAAOqMLH3G4n-EXAMPLE"
 TURNSTILE_EXPECTED_ACTION = "site_contact"
 TURNSTILE_EXPECTED_HOSTNAME = "negociamais.app"
 CONTACT_EMAIL = "contato@negociamais.app"
-FROM_EMAIL = "site@negociamais.app"
+FROM_EMAIL = "contato@negociamais.app"
 
 [assets]
 directory = "./public"
