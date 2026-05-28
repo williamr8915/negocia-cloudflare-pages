@@ -8,7 +8,7 @@
   "theme_color": "#1B2A4E",
   "icons": [
     {
-      "src": "/imgs/logo-negocia.png",
+      "src": "/assets/img/logo-negocia.png",
       "sizes": "512x512",
       "type": "image/png"
     }
